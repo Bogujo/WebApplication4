@@ -1,0 +1,285 @@
+﻿========================================
+Дата и время: 29.09.2026 13:21:24
+Метод: GET
+Путь: /
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: none
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:32
+Метод: GET
+Путь: /Home/Privacy
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:34
+Метод: GET
+Путь: /
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/Home/Privacy
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:34
+Метод: GET
+Путь: /Home/Privacy
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:35
+Метод: GET
+Путь: /Home/Privacy
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/Home/Privacy
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:36
+Метод: GET
+Путь: /
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/Home/Privacy
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:36
+Метод: GET
+Путь: /
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:36
+Метод: GET
+Путь: /
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:37
+Метод: GET
+Путь: /
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:37
+Метод: GET
+Путь: /
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:37
+Метод: GET
+Путь: /Home/Privacy
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:38
+Метод: GET
+Путь: /
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/Home/Privacy
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
+========================================
+Дата и время: 29.09.2026 13:21:38
+Метод: GET
+Путь: /
+HTTP-заголовки:
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Host: localhost:7268
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru;q=0.5
+Referer: https://localhost:7268/
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="154", "Brave";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-gpc: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+priority: u=0, i
+
